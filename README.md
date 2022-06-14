@@ -18,7 +18,8 @@ python3 -m pip install -U .[voice]
 
 ### Configuration
 The bot comes with an easily configurable config file. However, since some people aren't the best at understanding config files, I've attached comments into the config that explain what everything means and how to use it.
-&nbsp;&nbsp;&nbsp;
+
+# 
 
 ![Hosting Company](https://jakehamblin.com/images/hosturly.png)
 ### Hosting Company
