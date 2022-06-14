@@ -22,5 +22,6 @@ The bot comes with an easily configurable config file. However, since some peopl
 <p align="center">
  <img src="https://jakehamblin.com/images/hosturly.png">
 </p>
+
 ### Hosting Company
 Are you looking for a reliable and affordable host? Well, with many years of experience working with websites, website hosting, and dedicated server hosting, I can say that I've got a pretty good idea when a host is good. [Hosturly](https://jakehamblin.com/hosturly) is up for the task. Don't trust me? Read their reviews. They've got an almost 5 star rating, and with many years in the industry, they're here to stay. Use code `JAKE` for 10% off your order.
