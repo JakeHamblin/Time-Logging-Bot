@@ -1,3 +1,6 @@
+# Time Logging Bot
+Python Discord bot created for logging how long a user remained clocked in
+
 ## Usage
 This bot runs on Python 3.10, along with PyCord v2.0 (last tested to work on [PyCord](https://github.com/Pycord-Development/pycord) v2.0.0b4. Below, you will find the steps for how to setup the bot depending on your specific usage
 
